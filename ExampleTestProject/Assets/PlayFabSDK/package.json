@@ -1,0 +1,13 @@
+{
+  "name": "com.kitatas.playfab-unitysdk",
+  "displayName": "PlayFab-UnitySDK",
+  "version": "2.170.230707",
+  "unity": "2021.3",
+  "description": "PlayFab SDK for Unity.",
+  "author": {
+    "name": "kitatas"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.1.0"
+  }
+}
